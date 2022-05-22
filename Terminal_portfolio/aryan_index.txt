@@ -1,0 +1,8 @@
+<span id="a">aryan</span>:<span id="b">~</span><span id="c">$</span> IIT Roorkee 2020-2024 <!-- laglaglaglagl -->
+<span id="a">aryan</span>:<span id="b">~</span><span id="c">$</span> git add .<!-- laglaglaglag-->
+<span id="a">aryan</span>:<span id="b">~</span><span id="c">$</span> git commit -m " Hi,I am Aryan."<!-- laglaglaglag-->
+<span id="a">aryan</span>:<span id="b">~</span><span id="c">$</span> git push<!-- laglaglaglag-->
+
+<br/>
+Hey There! This is my Terminal website<!-- laglaglaglaglag -->
+
