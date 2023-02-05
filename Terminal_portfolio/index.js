@@ -99,7 +99,7 @@ var Typer = {
   Typer.file = 'aryan_index.txt';
   Typer.init();
   
-  var timer = setInterval('t();', 30);
+  var timer = setInterval('t();', 40);
   function t() {
     Typer.addText({ keyCode: 123748 });
   

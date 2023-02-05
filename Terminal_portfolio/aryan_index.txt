@@ -3,6 +3,11 @@
 <span id="a">aryan</span>:<span id="b">~</span><span id="c">$</span> git commit -m " Hi,I am Aryan."<!-- laglaglaglag-->
 <span id="a">aryan</span>:<span id="b">~</span><span id="c">$</span> git push<!-- laglaglaglag-->
 
+<span id="a"><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag-->
+
 <br/>
-Hey There! This is my Terminal website<!-- laglaglaglaglag -->
+
+You have dived too deep !! At this point just text me. <!-- laglaglaglaglag -->
+ <h1><p>🐱‍👤<a href="https://index.html#contact">Click here......</a>.</p></h1>
+   
 
